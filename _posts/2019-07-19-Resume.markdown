@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Resume"
+date:   2019-07-19 23:44:51 -0500
+permalink: /resume
+---
+![resume](/files/resume.png)
